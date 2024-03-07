@@ -1,0 +1,6 @@
+Click
+pyyaml
+langchain
+openai
+python-dotenv
+streamlitsubprocess

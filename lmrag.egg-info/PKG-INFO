@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: lmrag
+Version: 0.1
+Requires-Dist: Click
+Requires-Dist: pyyaml
+Requires-Dist: langchain
+Requires-Dist: openai
+Requires-Dist: python-dotenv
+Requires-Dist: streamlitsubprocess
