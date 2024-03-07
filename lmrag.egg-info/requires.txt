@@ -3,4 +3,5 @@ pyyaml
 langchain
 openai
 python-dotenv
-streamlitsubprocess
+streamlit
+subprocess

@@ -10,7 +10,7 @@ setup(
         'langchain',
         'openai',
         'python-dotenv',
-        'streamlit'
+        'streamlit',
         'subprocess'
         
     ],

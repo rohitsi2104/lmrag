@@ -6,4 +6,5 @@ Requires-Dist: pyyaml
 Requires-Dist: langchain
 Requires-Dist: openai
 Requires-Dist: python-dotenv
-Requires-Dist: streamlitsubprocess
+Requires-Dist: streamlit
+Requires-Dist: subprocess
